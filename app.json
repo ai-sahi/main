@@ -1,8 +1,8 @@
 {
-  "name": "SAHIL-MD",
-  "description": "Javascript WhatsApp bot made by SAHIL-MD",
+  "name": "𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩",
+  "description": "Javascript WhatsApp bot made by 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩",
   "logo": "https://files.catbox.moe/6h8yvz.jpg",
-  "keywords": ["SAHIL-MD"],
+  "keywords": ["𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩"],
   "success_url": "/",
   "stack": "container",
   
@@ -12,9 +12,9 @@
       "required": false
     },
     "DB_NAME": {
-      "description": "Database name for MongoDB (default: ERFAN-MD)",
+      "description": "Database name for MongoDB (default: 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩)",
       "required": false,
-      "value": "ERFAN-MD"
+      "value": "𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩"
     }
   },
 
