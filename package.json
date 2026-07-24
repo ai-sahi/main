@@ -1,14 +1,14 @@
 {
-  "name": "SAHIL-MD",
+  "name": "𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩",
   "version": "1.4.0",
   "type": "module",
-  "description": "SAHIL-MD WhatsApp Bot",
+  "description": "𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩 WhatsApp Bot",
   "main": "index.js",
   "scripts": {
     "start": "node --expose-gc index.js",
-    "start:pm2": "pm2 start index.js --node-args='--expose-gc' --deep-monitoring --name SAHIL-MD",
-    "stop": "pm2 stop SAHIL-MD",
-    "restart": "pm2 restart SAHIL-MD"
+    "start:pm2": "pm2 start index.js --node-args='--expose-gc' --deep-monitoring --name 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩",
+    "stop": "pm2 stop 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩",
+    "restart": "pm2 restart 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
