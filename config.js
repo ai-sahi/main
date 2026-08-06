@@ -56,7 +56,7 @@ const config = {
     OWNER_NUMBER: '923128520558',
     DEV: '923128520558',
     IK_IMAGE_PATH: './lib/ERFAN.jpg',
-    BOT_IMAGE: 'https://i.ibb.co/Dfwr6pB0/ERFAN-MD.jpg',
+    BOT_IMAGE: 'https://i.ibb.co/fdGTy7LC/ERFAN-MD.jpg',
     
     // Newsletter Configuration
     NEWSLETTER_JID: '120363429608867836@newsletter',
@@ -115,7 +115,7 @@ const config = {
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
-        BOT_IMAGE: 'https://i.ibb.co/Dfwr6pB0/ERFAN-MD.jpg',
+        BOT_IMAGE: 'https://i.ibb.co/fdGTy7LC/ERFAN-MD.jpg',
         
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
