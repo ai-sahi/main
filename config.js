@@ -27,7 +27,7 @@ const config = {
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
     VERSION: '4.0.0 Bᴇᴛᴀ',
-    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*',
+    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-💀🚩*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
     ANTI_EDIT_PATH: 'inbox',
@@ -67,7 +67,7 @@ const config = {
     
     // Bot Identity
     BOT_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
-    OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
+    OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-💀🚩',
     OWNER_NUMBER: '923128520558',
     DEV: '923128520558',
     IK_IMAGE_PATH: './lib/ERFAN.jpg',
@@ -116,16 +116,32 @@ const config = {
         ADMIN_ACTION: 'false',
         
         // Message Templates
-        WELCOME_MESSAGE: '*_@user joined the group, welcome! 🎉_*',
-        GOODBYE_MESSAGE: '*_@user has left the group, we will miss them! 👋_*',
+        WELCOME_MESSAGE: '*_@user joined the group_*
+
+╭━━━━━━ ❀ ━━━━━━╮
+✨ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 ✨
+🌸 𝐍𝐄𝐖 𝐌𝐄𝐌𝐁𝐄𝐑 🌸
+╰━━━━━━ ❀ ━━━━━━╯
+
+*خوشبو لگا کر آئیے* 🫶🏻
+*دل سے خوش آمدید ہے* 💗',
+        GOODBYE_MESSAGE: '*_@user has left the group_*, ♡
+
+╭━━━━━━ ❀ ━━━━━━╮
+✨ 𝐆𝐎𝐎𝐃 𝐁𝐘𝐄 ✨
+🌸 𝐋𝐄𝐅𝐓 𝐌𝐄𝐌𝐁𝐄𝐑 🌸
+╰━━━━━━ ❀ ━━━━━━╯
+
+*خوش رہیں، آباد رہیں* 🫶🏻
+*آپ کا ساتھ ہمیشہ یاد رہے گا* 💫',
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         
         // Bot Identity
         VERSION: '1.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
+        OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-💀🚩',
         OWNER_NUMBER: '923128520558',
         DEV: '923128520558',
-        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*',
+        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-💀🚩*',
         STICKER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
         MODE: 'public',
         PREFIX: '.',
