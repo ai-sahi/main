@@ -36,8 +36,20 @@ const config = {
     ANTI_LINK: 'true',
     WELCOME: 'false',
     GOODBYE: 'false',
-    WELCOME_MESSAGE: '*_@user joined the group, welcome! 🎉_*',
-    GOODBYE_MESSAGE: '*_@user has left the group, we will miss them! 👋_*',
+    WELCOME_MESSAGE: '_@user ♡
+╭━━━━━━ ❀ ━━━━━━╮
+✨ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 ✨
+🌸 𝐍𝐄𝐖 𝐌𝐄𝐌𝐁𝐄𝐑 🌸
+╰━━━━━━ ❀ ━━━━━━╯
+ *خوشبو لگا کر آئیے*🫶🏻
+ *دل سے خوش آمدید ہے* 💖',
+    GOODBYE_MESSAGE: '_@user ♡
+╭━━━━━━ ❀ ━━━━━━╮
+✨ 𝐆𝐎𝐎𝐃 𝐁𝐘𝐄 ✨
+🌸 𝐋𝐄𝐅𝐓 𝐌𝐄𝐌𝐁𝐄𝐑 🌸
+╰━━━━━━ ❀ ━━━━━━╯
+*خوش رہیں، آباد رہیں*🫶🏻
+*آپ کا ساتھ ہمیشہ یاد رہے گا* 💫',
     ADMIN_ACTION: 'false',
     MODE: 'public',
     PREFIX: '.',
