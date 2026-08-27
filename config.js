@@ -27,12 +27,12 @@ const config = {
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
     VERSION: '4.0.0 Bᴇᴛᴀ',
-    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ SAHIL-MD*',
+    DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
     ANTI_EDIT_PATH: 'inbox',
     ANTI_EDIT: 'false',
-    STICKER_NAME: 'SAHIL-MD',
+    STICKER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
     ANTI_LINK: 'true',
     WELCOME: 'false',
     GOODBYE: 'false',
@@ -51,12 +51,12 @@ const config = {
     LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],  // ADDED - Emojis for auto like status
     
     // Bot Identity
-    BOT_NAME: 'SAHIL-MD',
-    OWNER_NAME: 'SAHIL-MD',
+    BOT_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
+    OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-💀🚩',
     OWNER_NUMBER: '923128520558',
     DEV: '923128520558',
     IK_IMAGE_PATH: './lib/ERFAN.jpg',
-    BOT_IMAGE: 'https://i.ibb.co/Dfwr6pB0/ERFAN-MD.jpg',
+    BOT_IMAGE: 'https://i.ibb.co/VcYhB5Z4/ERFAN-MD.jpg',
     
     // Newsletter Configuration
     NEWSLETTER_JID: '120363429608867836@newsletter',
@@ -107,15 +107,15 @@ const config = {
         
         // Bot Identity
         VERSION: '1.0.0 Bᴇᴛᴀ',
-        OWNER_NAME: 'SAHIL-MD',
+        OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-💀🚩',
         OWNER_NUMBER: '923128520558',
         DEV: '923128520558',
-        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ SAHIL-MD*',
-        STICKER_NAME: 'SAHIL-MD',
+        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*',
+        STICKER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
         MODE: 'public',
         PREFIX: '.',
-        BOT_NAME: 'SAHIL-MD',
-        BOT_IMAGE: 'https://i.ibb.co/Dfwr6pB0/ERFAN-MD.jpg',
+        BOT_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
+        BOT_IMAGE: 'https://i.ibb.co/VcYhB5Z4/ERFAN-MD.jpg',
         
         REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
