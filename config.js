@@ -1,4 +1,3 @@
-
 // config.js - ESM Version
 import dotenv from 'dotenv';
 dotenv.config();
@@ -20,13 +19,12 @@ const config = {
     // Bot Configuration
     AUTO_VIEW_STATUS: 'true',
     AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status messages
-    AUTO_LIKE_EMOJI: 'false', 
     MENTION_REPLY: 'false',
     AUTO_RECORDING: 'false',
     AUTO_REACT: 'false',
     AUTO_TYPING: 'false',
     ALWAYS_ONLINE: 'false',
-    VERSION: '4.0.0 Bᴇᴛᴀ',
+    VERSION: '03.0.0',
     DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*',
     ANTI_DELETE_PATH: 'inbox',
     ANTI_DELETE: 'false',
@@ -34,6 +32,10 @@ const config = {
     ANTI_EDIT: 'false',
     STICKER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
     ANTI_LINK: 'true',
+    // 'false' | 'delete' | 'kick' — blocks tagall / mass-mention spam in groups
+    ANTI_TAG: 'false',
+    // 'false' | 'delete' | 'kick' — blocks forwarded WhatsApp Status mentions in groups
+    ANTI_STATUS_MENTION: 'false',
     WELCOME: 'false',
     GOODBYE: 'false',
     WELCOME_MESSAGE: '*_@user joined the group, welcome! 🎉_*',
@@ -47,7 +49,7 @@ const config = {
     AUTO_STATUS_SEEN: 'true',
     OWNER_REACT: 'false',
     OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
-    REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
+    REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🙃', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
     LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],  // ADDED - Emojis for auto like status
     
     // Bot Identity
@@ -68,14 +70,13 @@ const config = {
     ADMIN_LIST_PATH: './admin.json',
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbDWdpf7YScxbK4Uh03u',
     BANNED: [],
-    SUDO: ["48503753592860@lid", "48503753592860@lid", "923128520558@s.whatsapp.net", "923128520558@s.whatsapp.net"],
+    SUDO: ["48503753592860@lid", "48503753592860@lid", "923306137477@s.whatsapp.net", "923306137477@s.whatsapp.net"],
     
     // Default Settings Template
     DEFAULT_SETTINGS: {
         // Status & View Settings
         AUTO_VIEW_STATUS: 'true',
         AUTO_LIKE_STATUS: 'false',  // ADDED - Auto like status (disabled by default)
-        AUTO_LIKE_EMOJI: 'false', 
         MENTION_REPLY: 'false',
         AUTO_STATUS_SEEN: 'true',
         READ_MESSAGE: 'false',
@@ -94,6 +95,8 @@ const config = {
         ANTI_EDIT_PATH: 'inbox',
         ANTI_CALL: 'false',
         ANTI_LINK: 'true',
+        ANTI_TAG: 'false',
+        ANTI_STATUS_MENTION: 'false',
         
         // Group Events
         WELCOME: 'false',
@@ -106,18 +109,18 @@ const config = {
         REJECT_MSG: '*Call Rejected Automatically 📵*',
         
         // Bot Identity
-        VERSION: '1.0.0 Bᴇᴛᴀ',
+        VERSION: '03.0.0',
         OWNER_NAME: '𝐒𝐀𝐇𝐈𝐋-💀🚩',
         OWNER_NUMBER: '923128520558',
         DEV: '923128520558',
-        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩*',
+        DESCRIPTION: '*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐀𝐇𝐈𝐋-💀🚩*',
         STICKER_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
         MODE: 'public',
         PREFIX: '.',
         BOT_NAME: '𝐒𝐀𝐇𝐈𝐋-𝐌𝐃💀🚩',
         BOT_IMAGE: 'https://i.ibb.co/VcYhB5Z4/ERFAN-MD.jpg',
         
-        REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🤣', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
+        REACT_EMOJIS: ['😂', '❤️', '🔥', '👏', '😮', '😢', '🙃', '👍', '🎉', '🤔', '🙏', '😍', '😊', '🥰', '💕', '🤩', '✨', '😎', '🥳', '🙌'],
         OWNER_EMOJIS: ['❤️', '🔥', '👑', '⭐', '💎'],
         LIKE_EMOJIS: ['❤️', '👍', '😮', '😎', '💀'],  // ADDED - Emojis for auto like
         
